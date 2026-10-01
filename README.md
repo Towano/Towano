@@ -2,10 +2,6 @@
 
 # Towano | TideW
 
-**把日常折腾，变成顺手的小工具。**
-
-AI 工具 · 自托管 · Galgame
-
 </div>
 
 <br/>
@@ -16,12 +12,7 @@ AI 工具 · 自托管 · Galgame
 
 这里是 **Towano**，也可以叫我 **TideW**。
 
-给重复的事情写点脚本，给自己留点折腾的时间。
-
-有时认真写代码，有时 Vibe Coding。
-
-代码之外，也给 Galgame 留一点位置。<br>
-右边是《巧克甜恋》的 **雪村千绘莉**。
+纯 **Vibe Coding** 选手，没有技术，菜菜。
 
 <br clear="both"/>
 
