@@ -12,7 +12,7 @@
 
 这里是 **Towano**，也可以叫我 **TideW**。
 
-纯 **Vibe Coding** 选手，没有技术，菜菜。
+纯 **Vibe Coding** 选手，菜菜🥺。
 
 <br clear="both"/>
 
