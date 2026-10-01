@@ -52,11 +52,3 @@
     <img src="https://raw.githubusercontent.com/Towano/Towano/output/github-contribution-grid-snake.svg" alt="Towano 的贡献贪吃蛇动画">
   </picture>
 </div>
-
-<br/>
-
-<div align="center">
-
-**写一点代码，做一点有意思的东西。**
-
-</div>
